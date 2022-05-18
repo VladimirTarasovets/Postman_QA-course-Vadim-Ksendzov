@@ -149,3 +149,7 @@ request form data:
           }
 ```
 <a href="https://fxpics.ru/image/NWq8W"><img src="https://fxpics.ru/images/2022/05/10/EP7.png" alt="EP7.png" border="0" /></a>
+
+## HW2_Тесты в Postman
+
+[![Тут текст](https://img.youtube.com/vi/6GG4fkgUuEY/0.jpg)](https://www.youtube.com/watch?v=6GG4fkgUuEY)
