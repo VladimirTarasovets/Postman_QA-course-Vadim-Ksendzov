@@ -152,4 +152,4 @@ request form data:
 
 ## HW2_Тесты в Postman
 
-[![Тут текст](https://img.youtube.com/vi/GvlN-UOWLLQ/0.jpg)](https://www.youtube.com/watch?v=GvlN-UOWLLQ)
+[![Тут текст](https://img.youtube.com/vi/6GG4fkgUuEY/0.jpg)](https://www.youtube.com/watch?v=6GG4fkgUuEY)
