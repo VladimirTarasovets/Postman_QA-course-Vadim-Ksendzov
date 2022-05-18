@@ -378,11 +378,13 @@
 							"\r",
 							"\r",
 							"// 21. Написать цикл который выведет в консоль по порядку элементы списка из параметра salary\r",
+							"\r",
 							"let arr = jsonData.salary;\r",
 							"\r",
-							"for (let prop of arr) {\r",
-							"  console.log(prop);\r",
-							"}\r",
+							"arr.forEach(el => {\r",
+							"    console.log(el)\r",
+							"})\r",
+							"\r",
 							""
 						],
 						"type": "text/javascript"
@@ -540,8 +542,9 @@
 							"// 22. ***Написать цикл который выведет в консоль по порядку элементы списка из параметра person.\r",
 							"\r",
 							"let arr = jsonData.person\r",
-							"for (let prop in arr) {\r",
-							"  console.log(prop);\r",
+							"\r",
+							"for (let [key, value] of Object.entries(arr)) {\r",
+							"    console.log(`${key}:${value}`);\r",
 							"}\r",
 							""
 						],
